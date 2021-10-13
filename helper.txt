@@ -1,0 +1,48 @@
+Project 114 Tasks{
+
+To create the design for your web page consider the following steps:
+
+    Add a background image to the webpage, to give background to the webpage.         Done
+
+    Add a heading tag that will hold the heading of the website. Use some bootstrap classes and add style for this tag.     Done
+   
+    Add a button that will be used to save the filtered image.     Done
+
+    Add an onclick event and function to this button.    Done
+
+
+In the JS code:
+
+    Add preload() function and keep it empty as this function will be used in the upcoming project.      Done
+
+    Add setup() function, inside this create canvas, and get the canvas in the center and  give style for the canvas. Done
+
+    Add draw() function and keep it empty as this function will be used in the upcoming project.     Done
+
+    Define a function which is called onClick of the button which will save the filtered image.    
+
+}
+
+
+
+Project 115{
+    
+Things to add in the main.js file:
+
+    Add code for accessing the webcam       Done
+
+    DON’T forget to hide the extra component created by p5.js for webcam live view.      Done
+
+    Also put this webcam live view on the canvas.    Done
+
+    Add code for initializing posenet.   Done
+
+    Define modelLoaded() function, to check if posenet is initialized.  Done
+
+    Add code for executing posenet.
+
+    Write gotposes() function, which will hold coordinates of 17 body parts.
+
+    Write code for reading x and y coordinates of the nose.
+
+}
